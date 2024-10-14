@@ -13,4 +13,5 @@
 
 ## Disclaimer
 - A space heater may be more energy efficient.
+- Brian's old PC running games was an excellent space heaer
 - "Attempting to mine cryptocurrency" or "leaving a PC game running in the background" would also probably achieve the same effect.
